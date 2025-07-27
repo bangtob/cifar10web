@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load model CNN yang sudah disimpan
-model = load_model('model_final.h5')
+model = load_model('model_final1.h5')
 
 # Label kelas untuk CIFAR-10
 class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer',
