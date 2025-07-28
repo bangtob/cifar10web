@@ -16,7 +16,7 @@ class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer',
 
 # Pengaturan halaman
 st.set_page_config(page_title="Klasifikasi Gambar CIFAR-10", layout="centered")
-st.title("📷 Aplikasi Klasifikasi Gambar - CNN (New)")
+st.title("📷 Aplikasi Klasifikasi Gambar - CNN (Baru)")
 st.markdown("""
 Aplikasi ini menggunakan model CNN untuk mengklasifikasikan gambar ke dalam 10 kategori CIFAR-10.
 Silakan unggah gambar (ukuran mendekati 32x32 piksel). Model akan memproses dan menampilkan hasil klasifikasi.
